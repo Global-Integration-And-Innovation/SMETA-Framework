@@ -5,11 +5,13 @@
 **Affiliation:**  
 - Child Health Care Arambag (CHCA), West Bengal, India  
 - Sri Yoga Center Trust – Kunarpur, India  
-**ORCID:** 0000-0001-5658-8016  
+**ORCID:** 0000-0001-5658-8016
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18396901.svg)](https://doi.org/10.5281/zenodo.18396901)
 
 ---
 
 ## Abstract
+( - Archived with DOI on Zenodo for permanence and version control )
 
 The **SMETA Axiom** is a structural and axiomatic framework proposed to organize
 the fundamental components involved in the emergence, persistence,
@@ -99,11 +101,10 @@ and integrative health sciences.
 
 ## Citation
 
-If referencing this framework, please cite as:
-
-> Mukhopadhyay, R. (2026).  
-> *SMETA Axiom: A Structural Framework for Emergent Existence*.  
-> GitHub Repository. ORCID: 0000-0001-5658-8016
+Mukhopadhyay, R. (2026).  
+*SMETA Axiom: A Structural Framework for Emergent Existence*.  
+Zenodo. https://doi.org/10.5281/zenodo.18396901  
+ORCID: 0000-0001-5658-8016
 
 ---
 
