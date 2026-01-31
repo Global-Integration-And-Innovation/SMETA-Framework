@@ -11,7 +11,7 @@
 ---
 
 ## Abstract
-( - Archived with DOI on Zenodo for permanence and version control )
+> **Status note:** Archived with DOI on Zenodo for permanence and version control.
 
 The **SMETA Axiom** is a structural and axiomatic framework proposed to organize
 the fundamental components involved in the emergence, persistence,
