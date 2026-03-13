@@ -1,6 +1,5 @@
 # SMETA Axiom  
 **A Structural Framework for Emergent Existence**
-
 **Author:** Dr. Rajatsubhra Mukhopadhyay  
 **Affiliation:**  
 - Child Health Care Arambag (CHCA), West Bengal, India  
@@ -8,6 +7,22 @@
 **ORCID:** 0000-0001-5658-8016
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18396901.svg)](https://doi.org/10.5281/zenodo.18396901)
 
+## SMETA Framework
+
+A Structural Framework for Emergent Existence
+
+Author: Dr. Rajatsubhra Mukhopadhyay
+
+### Book Cover
+![SMETA Book](Book_SMETA.jpg)
+
+### Explanatory Pamphlet
+SMETA Concept Pamphlet (Zenodo DOI)
+
+https://doi.org/10.5281/zenodo.18979029
+
+Download PDF:
+[Pamphlet_Book_SMETA.pdf](Pamplet__Book_SMETA.pdf)
 ---
 
 ## Overview
