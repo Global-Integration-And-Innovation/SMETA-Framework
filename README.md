@@ -37,6 +37,15 @@ The book introduces the conceptual foundations of SMETA and discusses its potent
 Book link:
 https://amzn.to/3NauZes
 
+ASIN: B0GQZ283S2  
+ISBN-13: 979-8250190541
+Publisher: Sri Yoga Center Trust, Kunarpur, WB, India 
+Published via Amazon Kindle Direct Publishing (KDP).
+Publication Date: March 3, 2026  
+Language: English  
+Print Length: 95 pages  
+
+SMETA palmplet Zenodo DOI:  https://doi.org/10.5281/zenodo.18979029
 ---
 
 ## Repository Contents
@@ -151,9 +160,17 @@ and integrative health sciences.
 ## Citation
 
 Mukhopadhyay, R. (2026).  
-*SMETA Axiom: A Structural Framework for Emergent Existence*.  
+*SMETA Axiom: A Structural Framework for Emergent Existence*. 
+
 Zenodo. https://doi.org/10.5281/zenodo.18396901  
 ORCID: 0000-0001-5658-8016
+
+Mukhopadhyay, Rajatsubhra (2026).
+SMETA (Space–Mass–Energy–Time–Ātman).
+Independently published.
+
+Supplementary explanatory pamphlet available at:
+https://doi.org/10.5281/zenodo.18979029
 
 ---
 
