@@ -10,6 +10,55 @@
 
 ---
 
+## Overview
+
+SMETA (Space–Mass–Energy–Time–Ātman) proposes a structural framework to understand the emergence of ordered systems across different domains of existence.
+
+The framework considers five interconnected dimensions:
+
+- Space
+- Mass
+- Energy
+- Time
+- Ātman (Intrinsic coherence principle)
+
+SMETA aims to provide a conceptual bridge between physical systems, biological systems, cognitive structures and artificial intelligence models.
+
+## Primary Book Reference
+
+The SMETA framework is explained in detail in the book:
+
+**SMETA: Space–Mass–Energy–Time–Ātman — A Foundational Framework of Reality**
+
+Author: Dr Rajatsubhra Mukhopadhyay
+
+The book introduces the conceptual foundations of SMETA and discusses its potential implications for physics, systems theory, consciousness studies and artificial intelligence.
+
+Book link:
+https://amzn.to/3NauZes
+
+---
+
+## Repository Contents
+
+This repository includes:
+
+- Conceptual explanation of the SMETA framework
+- Structural diagrams and models
+- Mathematical interpretations
+- Future application ideas
+
+---
+
+## Author
+
+Dr. Rajatsubhra Mukhopadhyay  
+Child Health Care Arambag (CHCA)  
+Sri Yoga Center Trust, Kunarpur  
+West Bengal, India
+
+ORCID: 0000-0001-5658-8016
+
 ## Abstract
 > **Status note:** Archived with DOI on Zenodo for permanence and version control.
 
